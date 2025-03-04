@@ -1,6 +1,4 @@
 #include <iostream>
-#include <opencv2/opencv.hpp>
-
 #include "qr_reader.h"
 #include <ctype.h>
 
